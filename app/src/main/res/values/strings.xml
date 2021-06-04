@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EMI Calculator</string>
+
+    <!-- Tab -->
+    <string name="tab1">RULES</string>
+    <string name="tab2">EMI</string>
+
+    <!-- Fragment -->
+    <string name="f1_txt1">Rules for Calculation</string>
+
+    <string name="f2_txt1">Input Data</string>
+    <string name="f2_hint1">Enter Principle</string>
+    <string name="f2_hint2">Enter Duration (in months)</string>
+    <string name="btn_calc">CALCULATE EMI</string>
+
+    <string-array name="loan_type">
+        <item>Home Loan</item>
+        <item>Education Loan</item>
+        <item>Car Loan</item>
+        <item>Personal Loan</item>
+    </string-array>
+
+    <string name="mnu1">Credits</string>
+    <string name="mnu2">EXIT</string>
+</resources>
